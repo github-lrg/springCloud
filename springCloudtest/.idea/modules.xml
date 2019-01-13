@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springCloudtest.iml" filepath="$PROJECT_DIR$/springCloudtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testClient/testClient.iml" filepath="$PROJECT_DIR$/testClient/testClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testsService/testsService.iml" filepath="$PROJECT_DIR$/testsService/testsService.iml" />
+    </modules>
+  </component>
+</project>
